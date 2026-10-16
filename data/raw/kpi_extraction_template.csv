@@ -1,0 +1,4 @@
+company,report_year,kpi_name,value_as_reported,unit_as_reported,scope_or_note,source_document,source_page
+ExampleUtility AG,2024,Scope 1 GHG emissions,"1.234.567",t CO2e,gross; location-based n/a,Nachhaltigkeitsbericht 2024,47
+ExampleUtility AG,2024,Total energy consumption,"5,2",TWh,incl. own use,Nachhaltigkeitsbericht 2024,52
+ExampleUtility AG,2024,Employees (headcount),"8.900",persons,as of 31.12.,Geschaeftsbericht 2024,12
