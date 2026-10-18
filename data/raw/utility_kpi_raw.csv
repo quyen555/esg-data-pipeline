@@ -1,0 +1,79 @@
+company,report_year,kpi_name,value_as_reported,unit_as_reported,scope_or_note,source_document,source_page
+E.ON,2025,Scope 1 GHG emissions,1.86,million t CO2e,gross,FY2025 Annual Report,100
+E.ON,2024,Scope 1 GHG emissions,1.98,million t CO2e,gross,FY2025 Annual Report,100
+E.ON,2025,Scope 2 GHG emissions (location-based),3.35,million t CO2e,gross,FY2025 Annual Report,100
+E.ON,2024,Scope 2 GHG emissions (location-based),3.66,million t CO2e,gross; restated in FY2025 report (2024 location/market allocation corrected),FY2025 Annual Report,100
+E.ON,2025,Scope 2 GHG emissions (market-based),6.54,million t CO2e,gross,FY2025 Annual Report,100
+E.ON,2024,Scope 2 GHG emissions (market-based),6.41,million t CO2e,gross; restated in FY2025 report (2024 location/market allocation corrected),FY2025 Annual Report,100
+E.ON,2025,Scope 3 GHG emissions,58.38,million t CO2e,gross; market-based,FY2025 Annual Report,100
+E.ON,2024,Scope 3 GHG emissions,60.06,million t CO2e,gross; market-based,FY2025 Annual Report,100
+E.ON,2025,Total energy consumption,16.06,million MWh,,FY2025 Annual Report,101
+E.ON,2024,Total energy consumption,16.56,million MWh,,FY2025 Annual Report,101
+E.ON,2025,Share of renewable energy consumption,45,percentage,,FY2025 Annual Report,101
+E.ON,2024,Share of renewable energy consumption,43,percentage,,FY2025 Annual Report,101
+E.ON,2025,Employees (headcount),"84,791",persons,"headcount at 31 Dec; total workforce incl. apprentices, interns and working students",FY2025 Annual Report,66
+E.ON,2024,Employees (headcount),"82,907",persons,"headcount at 31 Dec; total workforce incl. apprentices, interns and working students",FY2025 Annual Report,66
+E.ON,2025,Female employees (headcount),"27,432",persons,"headcount at 31 Dec; total workforce incl. apprentices, interns and working students",FY2025 Annual Report,66
+E.ON,2024,Female employees (headcount),"26,735",persons,"headcount at 31 Dec; total workforce incl. apprentices, interns and working students",FY2025 Annual Report,66
+E.ON,2025,LTIF,2.16,lost time per million hours of work,employees only (excl. contractors),FY2025 Annual Report,120
+E.ON,2024,LTIF,2.46,lost time per million hours of work,employees only (excl. contractors),FY2025 Annual Report,120
+E.ON,2025,Revenue,"78,704",million EUR,"consolidated group sales, excl. electricity and energy taxes",FY2025 Annual Report,151
+E.ON,2024,Revenue,"80,119",million EUR,"consolidated group sales, excl. electricity and energy taxes",FY2025 Annual Report,151
+EnBW,2025,Scope 1 GHG emissions,"11,700",thousand t CO2e,gross; incl. long-term leased reserve power plants,FY2025 Annual Report,169
+EnBW,2024,Scope 1 GHG emissions,"8,862",thousand t CO2e,gross; incl. long-term leased reserve power plants,FY2025 Annual Report,169
+EnBW,2025,Scope 2 GHG emissions (location-based),"1,302",thousand t CO2e,gross,FY2025 Annual Report,169
+EnBW,2024,Scope 2 GHG emissions (location-based),"1,267",thousand t CO2e,gross; restated in FY2025 report,FY2025 Annual Report,169
+EnBW,2025,Scope 2 GHG emissions (market-based),669,thousand t CO2e,gross,FY2025 Annual Report,169
+EnBW,2024,Scope 2 GHG emissions (market-based),691,thousand t CO2e,gross,FY2025 Annual Report,169
+EnBW,2025,Scope 3 GHG emissions,"31,653",thousand t CO2e,gross; single Scope 3 total (no location/market split),FY2025 Annual Report,169
+EnBW,2024,Scope 3 GHG emissions,"30,003",thousand t CO2e,gross; restated in FY2025 report; single Scope 3 total (no location/market split),FY2025 Annual Report,169
+EnBW,2025,Total energy consumption,"40,098,296",MWh,incl. primary energy used in power plants,FY2025 Annual Report,165
+EnBW,2024,Total energy consumption,"32,014,718",MWh,incl. primary energy used in power plants,FY2025 Annual Report,165
+EnBW,2025,Share of renewable energy consumption,9.4,percentage,,FY2025 Annual Report,165
+EnBW,2024,Share of renewable energy consumption,11.5,percentage,,FY2025 Annual Report,165
+EnBW,2025,Employees (headcount),"31,541",persons,headcount at 31 Dec; excl. apprentices/trainees and inactive employees,FY2025 Annual Report,207
+EnBW,2024,Employees (headcount),"30,391",persons,headcount at 31 Dec; excl. apprentices/trainees and inactive employees,FY2025 Annual Report,207
+EnBW,2025,Female employees (headcount),"9,280",persons,headcount at 31 Dec; excl. apprentices/trainees and inactive employees,FY2025 Annual Report,207
+EnBW,2024,Female employees (headcount),"8,855",persons,headcount at 31 Dec; excl. apprentices/trainees and inactive employees,FY2025 Annual Report,207
+EnBW,2025,LTIF,2.9,lost time per million hours of work,LTIF overall (new 2025 definition); entire consolidated group incl. waste management; excl. contractors,FY2025 Annual Report,208
+EnBW,2024,LTIF,4.0,lost time per million hours of work,LTIF overall (new 2025 definition); entire consolidated group incl. waste management; excl. contractors,FY2025 Annual Report,208
+EnBW,2025,Revenue,"34,390.0",million EUR,"consolidated group revenue, excl. electricity and energy taxes",FY2025 Annual Report,253
+EnBW,2024,Revenue,"34,524.4",million EUR,"consolidated group revenue, excl. electricity and energy taxes",FY2025 Annual Report,253
+RWE,2025,Scope 1 GHG emissions,51.89,million t CO2e,gross,FY2025 Annual Report,114
+RWE,2024,Scope 1 GHG emissions,53.24,million t CO2e,gross,FY2025 Annual Report,114
+RWE,2025,Scope 2 GHG emissions (location-based),0.22,million t CO2e,gross,FY2025 Annual Report,114
+RWE,2024,Scope 2 GHG emissions (location-based),0.39,million t CO2e,"gross; 2024 electricity use estimated at many sites, decline vs. 2024 due to better data, not restated",FY2025 Annual Report,114
+RWE,2025,Scope 2 GHG emissions (market-based),0.22,million t CO2e,gross,FY2025 Annual Report,114
+RWE,2024,Scope 2 GHG emissions (market-based),0.39,million t CO2e,"gross; 2024 electricity use estimated at many sites, decline vs. 2024 due to better data, not restated",FY2025 Annual Report,114
+RWE,2025,Scope 3 GHG emissions,19.47,million t CO2e,gross; single Scope 3 total (no location/market split),FY2025 Annual Report,114
+RWE,2024,Scope 3 GHG emissions,21.77,million t CO2e,gross; single Scope 3 total (no location/market split),FY2025 Annual Report,114
+RWE,2025,Total energy consumption,"180,128,094",MWh,,FY2025 Annual Report,113
+RWE,2024,Total energy consumption,"183,521,636",MWh,,FY2025 Annual Report,113
+RWE,2025,Share of renewable energy consumption,4.4,percentage,,FY2025 Annual Report,113
+RWE,2024,Share of renewable energy consumption,4.1,percentage,,FY2025 Annual Report,113
+RWE,2025,Employees (headcount),"21,265",persons,"headcount at 31 Dec; incl. apprentices; excl. Executive Board, managing directors, dormant contracts, working students and interns",FY2025 Annual Report,147
+RWE,2024,Employees (headcount),"22,098",persons,"headcount at 31 Dec; incl. apprentices; excl. Executive Board, managing directors, dormant contracts, working students and interns",FY2025 Annual Report,147
+RWE,2025,Female employees (headcount),"4,436",persons,"headcount at 31 Dec; incl. apprentices; excl. Executive Board, managing directors, dormant contracts, working students and interns",FY2025 Annual Report,147
+RWE,2024,Female employees (headcount),"4,599",persons,"headcount at 31 Dec; incl. apprentices; excl. Executive Board, managing directors, dormant contracts, working students and interns",FY2025 Annual Report,147
+RWE,2025,LTIF,1.2,lost time per million hours of work,INCL. contractors working on RWE sites (not comparable to employee-only LTIF),FY2025 Annual Report,149
+RWE,2024,LTIF,1.6,lost time per million hours of work,INCL. contractors working on RWE sites (not comparable to employee-only LTIF),FY2025 Annual Report,149
+RWE,2025,Revenue,"17,628",million EUR,"consolidated group revenue, excl. natural gas and electricity tax",FY2025 Annual Report,166
+RWE,2024,Revenue,"24,224",million EUR,"consolidated group revenue, excl. natural gas and electricity tax",FY2025 Annual Report,166
+Uniper,2025,Scope 1 GHG emissions,"11,907,517.3",t CO2e,gross; operational control approach,FY2025 Annual Report,149
+Uniper,2024,Scope 1 GHG emissions,"14,751,151.2",t CO2e,gross; operational control approach,FY2025 Annual Report,149
+Uniper,2025,Scope 2 GHG emissions (location-based),"486,939.2",t CO2e,gross; operational control approach,FY2025 Annual Report,149
+Uniper,2024,Scope 2 GHG emissions (location-based),"709,034.0",t CO2e,"gross; operational control approach; restated in FY2025 report (improved estimation methodology); originally 1,348,607.8",FY2025 Annual Report,149
+Uniper,2025,Scope 2 GHG emissions (market-based),"1,116,323.2",t CO2e,gross; operational control approach,FY2025 Annual Report,149
+Uniper,2024,Scope 2 GHG emissions (market-based),"1,263,350.3",t CO2e,"gross; operational control approach; restated in FY2025 report (improved estimation methodology); originally 2,005,748.9",FY2025 Annual Report,149
+Uniper,2025,Scope 3 GHG emissions,"42,552,435.6",t CO2e,gross; single Scope 3 total (no location/market split),FY2025 Annual Report,150
+Uniper,2024,Scope 3 GHG emissions,"64,365,479.5",t CO2e,gross; single Scope 3 total (no location/market split),FY2025 Annual Report,150
+Uniper,2025,Total energy consumption,"65,955,862.4",MWh,incl. nuclear sources (19.7%),FY2025 Annual Report,147
+Uniper,2024,Total energy consumption,"92,369,743.3",MWh,incl. nuclear sources (33.1%),FY2025 Annual Report,147
+Uniper,2025,Share of renewable energy consumption,3.4,percentage,,FY2025 Annual Report,147
+Uniper,2024,Share of renewable energy consumption,1.6,percentage,,FY2025 Annual Report,147
+Uniper,2025,Employees (headcount),"7,417",persons,headcount at 31 Dec; all employees with a direct Uniper employment contract,FY2025 Annual Report,187
+Uniper,2024,Employees (headcount),"7,614",persons,headcount at 31 Dec; all employees with a direct Uniper employment contract,FY2025 Annual Report,187
+Uniper,2025,Female employees (headcount),"2,099",persons,headcount at 31 Dec; all employees with a direct Uniper employment contract,FY2025 Annual Report,187
+Uniper,2024,Female employees (headcount),"2,084",persons,headcount at 31 Dec; all employees with a direct Uniper employment contract,FY2025 Annual Report,187
+Uniper,2025,Revenue,"60,955",million EUR,"consolidated group sales, excl. electricity and energy taxes",FY2025 Annual Report,250
+Uniper,2024,Revenue,"69,636",million EUR,"consolidated group sales, excl. electricity and energy taxes",FY2025 Annual Report,250
